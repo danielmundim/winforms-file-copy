@@ -1,0 +1,12 @@
+F:\Projetos\DCSL\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+F:\Projetos\DCSL\Project\Project\obj\Debug\Project.Form1.resources
+F:\Projetos\DCSL\Project\Project\obj\Debug\Project.Properties.Resources.resources
+F:\Projetos\DCSL\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+F:\Projetos\DCSL\Project\Project\bin\Debug\Project.exe.config
+F:\Projetos\DCSL\Project\Project\bin\Debug\Project.exe
+F:\Projetos\DCSL\Project\Project\bin\Debug\Project.pdb
+F:\Projetos\DCSL\Project\Project\obj\Debug\Project.exe
+F:\Projetos\DCSL\Project\Project\obj\Debug\Project.pdb
+C:\Users\Daniel\Documents\GitHub\winforms-file-copy\Project\Project\bin\Debug\Project.exe.config
+C:\Users\Daniel\Documents\GitHub\winforms-file-copy\Project\Project\obj\Debug\Project.exe
+C:\Users\Daniel\Documents\GitHub\winforms-file-copy\Project\Project\obj\Debug\Project.pdb
